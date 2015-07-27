@@ -8,7 +8,7 @@ language processing to process the article and determine the most important sent
 
 First install [pip](https://pypi.python.org/pypi/pip)
 
-Simply run:
+Simply run the following in the local directory:
 
     $ pip install .
 
