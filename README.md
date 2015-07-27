@@ -15,10 +15,9 @@ Simply run:
 
 # Usage
 
-To use it:
+To get a "too long; didn't read" version of an article, simply run the following in your command line:
     
-    To get a "too long; didn't read" version of an article, simply run the following in your command line:
     $ wikipy [article_name] --tldr 
     
-    To get the full version of the article, omit the '--tldr' option.
+To get the full version of the article, omit the '--tldr' option.
 
